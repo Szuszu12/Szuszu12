@@ -1,6 +1,6 @@
 # About me:
 - 👋 Hi, I’m @Szuszu12
--🎓 I am an IT Student at Opole University
+- 🎓 I'm an IT Student at Opole University
 - 🌱 I’m currently learning HTML5/CSS3, JavaScript
 - ⚡ Fun fact: I want to become a FullStack developer
 
